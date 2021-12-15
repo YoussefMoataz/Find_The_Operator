@@ -1,3 +1,5 @@
+# author : Youssef Moataz
+
 x = int(input("Enter first number\n"))
 y = int(input("Enter second number\n"))
 
@@ -15,7 +17,3 @@ elif (x % y) == z:
     print(x, " % ", y, " = ", z)
 elif (x ** y) == z:
     print(x, " ^ ", y, " = ", z)
-
-# done
-# pull
-# pulled and updated
