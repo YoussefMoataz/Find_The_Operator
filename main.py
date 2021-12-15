@@ -1,6 +1,4 @@
-if __name__ == '__main__':
-
-    x = int(input("Enter first number\n"))
+x = int(input("Enter first number\n"))
     y = int(input("Enter second number\n"))
 
     z = int(input("Enter the result\n"))
